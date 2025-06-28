@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Misc
+coverage/
+.eslintcache
+.cache/
+*.log
+
+# React/Vite specific
+*.tsbuildinfo
+
+# Ignore specific frontend files
+frontend/src/components/CategoryCarousel.jsx
+frontend/src/components/Browse.jsx
