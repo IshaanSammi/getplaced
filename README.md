@@ -32,7 +32,7 @@ A full-stack job portal application built using the MERN Stack. The platform sup
 Follow these steps to set up the project locally.
 
 ### 1. Clone the Repository
-git clone https://github.com/IshaanSammi/Chat.git  
+git clone https://github.com/IshaanSammi/getplaced.git  
 cd Chat
 
 ### 2. Install Dependencies
