@@ -9,6 +9,7 @@ A full-stack job portal application built using the MERN Stack. The platform sup
 - Axios
 - React Router
 - Tailwind CSS
+- ShadcnUI
 
 **Backend:**
 - Node.js
