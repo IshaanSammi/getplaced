@@ -25,6 +25,7 @@ A full-stack job portal application built using the MERN Stack. The platform sup
 - Students can view and apply to jobs
 - JWT-based secure user authentication
 - Real-time email notifications on selection or rejection
+- Real-time confirmation email on applying a job
 - Role-based dashboard views
 - Persistent data stored in MongoDB
 
